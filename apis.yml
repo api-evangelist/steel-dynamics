@@ -1,7 +1,12 @@
 aid: steel-dynamics
-url: https://raw.githubusercontent.com/api-evangelist/steel-dynamics/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/steel-dynamics/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.steel-dynamics.com
+description: >-
+  Steel Dynamics is one of the largest domestic steel producers and metals recyclers
+  in the United States, with operations in steel manufacturing, steel processing,
+  and metals recycling.
