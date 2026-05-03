@@ -1,0 +1,120 @@
+name: Steel Dynamics Vocabulary
+description: >-
+  Domain vocabulary for Steel Dynamics, Inc. covering steel manufacturing,
+  metals recycling, and industrial operations terminology.
+version: '1.0.0'
+created: '2026-05-02'
+modified: '2026-05-02'
+
+terms:
+  - term: Steel Mill
+    definition: >-
+      A facility where steel is produced from iron ore or scrap metal through
+      electric arc furnace (EAF) steelmaking processes. Steel Dynamics
+      operates multiple steel mills across the United States.
+    tags:
+      - Manufacturing
+      - Facilities
+
+  - term: Electric Arc Furnace
+    definition: >-
+      A steelmaking furnace that uses electric arcs to melt scrap metal or
+      direct reduced iron to produce steel. Steel Dynamics primarily uses
+      EAF technology, making it a significant metals recycler.
+    abbreviations:
+      - EAF
+    tags:
+      - Manufacturing
+      - Technology
+
+  - term: Metals Recycling
+    definition: >-
+      The process of collecting, processing, and reusing scrap metal as
+      raw material for steel production. Steel Dynamics is one of the
+      largest metals recyclers in the United States.
+    synonyms:
+      - Scrap Metal Recycling
+    tags:
+      - Recycling
+      - Sustainability
+
+  - term: Steel Fabrication
+    definition: >-
+      The process of cutting, bending, and assembling steel into finished
+      structural components. Steel Dynamics operates steel fabrication
+      facilities producing steel joists and deck products.
+    tags:
+      - Manufacturing
+      - Products
+
+  - term: Flat Roll Steel
+    definition: >-
+      Steel products produced in flat, sheet or strip form through hot-rolling
+      or cold-rolling processes, used in automotive, construction, and
+      appliance industries.
+    tags:
+      - Products
+      - Steel
+
+  - term: Long Products
+    definition: >-
+      Steel products with elongated cross-sections including structural beams,
+      angles, channels, and reinforcing bars (rebar), primarily used in
+      construction.
+    synonyms:
+      - Structural Steel
+    tags:
+      - Products
+      - Steel
+
+  - term: STLD
+    definition: >-
+      The NASDAQ ticker symbol for Steel Dynamics, Inc. (Steel Dynamics
+      Incorporated).
+    tags:
+      - Finance
+      - Investor Relations
+
+  - term: Mini Mill
+    definition: >-
+      A steel production facility that uses electric arc furnace technology
+      to recycle scrap metal rather than traditional blast furnace methods.
+      Steel Dynamics operates as a mini mill producer.
+    tags:
+      - Manufacturing
+      - Technology
+
+  - term: Processing
+    definition: >-
+      Steel finishing and treatment operations that add value to base steel
+      products, including slitting, pickling, galvanizing, and painting.
+    tags:
+      - Manufacturing
+      - Products
+
+  - term: Fort Wayne
+    definition: >-
+      Headquarters city for Steel Dynamics, Inc., located in Indiana, USA.
+    tags:
+      - Location
+      - Corporate
+
+categories:
+  - name: Manufacturing
+    terms:
+      - Steel Mill
+      - Electric Arc Furnace
+      - Mini Mill
+      - Processing
+      - Steel Fabrication
+  - name: Products
+    terms:
+      - Flat Roll Steel
+      - Long Products
+  - name: Sustainability
+    terms:
+      - Metals Recycling
+  - name: Corporate
+    terms:
+      - STLD
+      - Fort Wayne
