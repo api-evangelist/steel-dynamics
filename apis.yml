@@ -34,7 +34,7 @@ common:
     url: https://ir.steeldynamics.com/
   - type: PressReleases
     url: https://ir.steeldynamics.com/news-releases
-  - type: JSON-LD
+  - type: JSONLD
     url: json-ld/steel-dynamics-context.jsonld
   - type: Vocabulary
     url: vocabulary/steel-dynamics-vocabulary.yml
