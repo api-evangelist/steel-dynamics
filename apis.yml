@@ -40,6 +40,8 @@ common:
     url: json-ld/steel-dynamics-context.jsonld
   - type: Vocabulary
     url: vocabulary/steel-dynamics-vocabulary.yml
+  - url: https://ir.steeldynamics.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
