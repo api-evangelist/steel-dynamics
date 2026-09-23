@@ -1,7 +1,9 @@
 ---
 title: Sustainable steel supply deal for Tuscaloosa.
 url: https://group.mercedes-benz.com/sustainability/resources-circularity/materials/co2-reduced-steel-tuscaloosa.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Steel Dynamics" press release artificial intelligence'
 position: 5
 source: serpapi-google

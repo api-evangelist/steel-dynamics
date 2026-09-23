@@ -1,7 +1,9 @@
 ---
 title: Steel Dynamics Provides Fourth Quarter 2025 Earnings ...
 url: https://www.prnewswire.com/news-releases/steel-dynamics-provides-fourth-quarter-2025-earnings-guidance-302644694.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Steel Dynamics" press release artificial intelligence'
 position: 1
 source: serpapi-google
