@@ -64,54 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Steel Dynamics, Inc. is one of the largest domestic steel producers and metals recyclers in the United States, with operations spanning steel manufacturing, steel processing, and metals recycling. Founded in 1993 and headquartered in Fort Wayne, Indiana, the company operates steel mills, fabrication operations, and metals recycling facilities. Steel Dynamics is a Fortune 500 company listed on NASDAQ (STLD).
+Steel Dynamics, Inc. is one of the largest domestic steel producers and metals recyclers in the United States, with operations spanning steel manufacturing, steel processing, and metals recycling. Founded in 1993 and headquartered in Fort Wayne, Indiana, the company operates steel mills, fabrication operations, and metals recycling facilities. Steel Dynamics is a Fortune 500 company listed on NASDAQ (STLD) and does not offer public developer APIs; data access is available through financial data providers and investor relations communications.
 
-**Website:** [https://www.steel-dynamics.com](https://www.steel-dynamics.com)
+**Areas:** Steel · Manufacturing · Metals · Recycling · Industrial · Fortune 500 · Materials
 
-**Investor Relations:** [https://ir.steeldynamics.com/](https://ir.steeldynamics.com/)
+## Steel Dynamics on APIs.io
 
-## Overview
+Everything profiled for Steel Dynamics is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/steel-dynamics/](https://apis.io/providers/steel-dynamics/)** — or go straight to one of the APIs or properties below.
 
-Steel Dynamics does not offer public developer APIs. The company is an industrial manufacturer and metals recycler. Financial and corporate data is available through the investor relations portal, SEC EDGAR filings, and third-party financial data providers.
+### Published properties
 
-## Common Properties
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Steel Dynamics Context](https://apis.io/jsonld/steel-dynamics/steel-dynamics-context/)
+
+#### Vocabulary (1)
+
+The provider's domain terms, defined.
+
+- [Steel Dynamics Vocabulary](https://apis.io/vocabularies/steel-dynamics/steel-dynamics-vocabulary/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.steel-dynamics.com)
-- [InvestorRelations](https://ir.steeldynamics.com/)
-- [PressReleases](https://ir.steeldynamics.com/news-releases)
+- [Blog](https://ir.steeldynamics.com/feed/)
 
-## Artifacts
+## API Evangelist rating
 
-### JSON-LD
-- [Steel Dynamics Context](json-ld/steel-dynamics-context.jsonld)
+**Kin Score 8.2** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-### Vocabulary
-- [Steel Dynamics Vocabulary](vocabulary/steel-dynamics-vocabulary.yml)
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 10.7 |
+| Contract governance | 13.6 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
 
-## Business Operations
+**Agent readiness 0.0** — human-only
 
-| Segment | Description |
-|---------|-------------|
-| Steel Operations | EAF steelmaking — flat-roll and long products mills |
-| Steel Fabrication | Steel joists and steel decking |
-| Metals Recycling | Scrap metal collection and processing (OmniSource) |
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-## Products
+**Regulatory alignment 4.9** — Horizontal (data, software, accessibility, platform)
 
-- **Flat Roll Steel**: Hot-rolled, cold-rolled, and coated products
-- **Long Products**: Structural beams, angles, channels, and rebar
-- **Specialty Steel**: Special Bar Quality (SBQ) steel
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/steel-dynamics/](https://apis.io/providers/steel-dynamics/).
 
-## Key Facts
+## How this profile is made
 
-- **Ticker:** STLD (NASDAQ)
-- **Headquarters:** Fort Wayne, Indiana, USA
-- **Founded:** 1993
-- **Technology:** Electric arc furnace (EAF) mini mill
-- **Fortune 500:** Yes
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Maintainers
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Steel Dynamics: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-**FN:** Kin Lane
+## Open an issue
 
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/steel-dynamics/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
